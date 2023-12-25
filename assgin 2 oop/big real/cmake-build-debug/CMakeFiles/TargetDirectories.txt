@@ -1,0 +1,3 @@
+E:/study/big real/cmake-build-debug/CMakeFiles/big_real.dir
+E:/study/big real/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/study/big real/cmake-build-debug/CMakeFiles/rebuild_cache.dir
